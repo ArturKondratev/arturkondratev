@@ -29,7 +29,7 @@
 ![MVP](https://img.shields.io/badge/-MVP-05122A?style=flat&logo=MVP)&nbsp;
 ![VIPER](https://img.shields.io/badge/-VIPER-05122A?style=flat&logo=VIPER)&nbsp;
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturkondratev&show_icons=true&theme=merko)
 
 <!--
 **ArturKondratev/arturkondratev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
