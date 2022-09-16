@@ -8,13 +8,19 @@
 ### Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
 <br />
 ![XCODE](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=0077b6)
 ![SWIFT](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 ![UIKit](https://img.shields.io/badge/-UIKit-05122A?style=flat&logo=uiki)&nbsp;
-![SWIFTUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swiftui)&nbsp;
 <br />
+![GCD](https://img.shields.io/badge/-GCD-05122A?style=flat&logo=GCD)&nbsp;
+![Operation](https://img.shields.io/badge/-Operation-05122A?style=flat&logo=Operation)&nbsp;
+![PromiseKit](https://img.shields.io/badge/-PromiseKit-05122A?style=flat&logo=PromiseKit)&nbsp;
+![Realm](https://img.shields.io/badge/-Realm-05122A?style=flat&logo=Realm)&nbsp;
+![CocoaPods](https://img.shields.io/badge/-CocoaPods-05122A?style=flat&logo=CocoaPods)&nbsp;
+![API](https://img.shields.io/badge/-API-05122A?style=flat&logo=API)&nbsp;
+![URLSession](https://img.shields.io/badge/-URLSession-05122A?style=flat&logo=URLSession)&nbsp;
+![Alamofire](https://img.shields.io/badge/-Alamofire-05122A?style=flat&logo=Alamofire)&nbsp;
 
 ### Architecture
 ![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=MVC)&nbsp;
