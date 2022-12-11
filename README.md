@@ -1,5 +1,4 @@
 ### ARTUR KONDRATEV - iOS developer
-[![HH](https://img.shields.io/badge/HH.ru-red?style=for-the-badge&logo=)](https://hh.ru/resume/4f35ee46ff09c853420039ed1f34636f7a5a65)
 <a href="https://t.me/Artur_7">
   <img align="left" alt="Artur Telegram" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>
 </a>
